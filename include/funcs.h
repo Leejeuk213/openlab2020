@@ -3,7 +3,11 @@
 #include "funcs.h"
 
 void goo();
+
 void my_stable_funcs();
+
+void experiment();
+
 #endif
 
 

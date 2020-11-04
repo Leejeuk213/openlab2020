@@ -4,6 +4,7 @@
 int main()
 {
 	goo();
+	experiment();
 	return 0;
 
 
