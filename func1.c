@@ -10,3 +10,8 @@ void goo()
 	return ;
 }
 
+void experiment()
+{
+	printf("some experiment...\n");
+	return;
+}

@@ -3,7 +3,7 @@
 #include "funcs.h"
 
 void goo();
-
+void experimetn();
 #endif
 
 
