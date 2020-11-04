@@ -7,6 +7,6 @@ void goo()
 
 
 	printf("hello goo\n");
-	return 0;
+	return ;
 }
 
